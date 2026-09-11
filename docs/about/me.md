@@ -2,5 +2,5 @@
 
 ![](../images/hola/hola.png)
 
-Soy Mathias Rodriguez
+Soy Beatriz Segredo.
 
